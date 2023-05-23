@@ -3,8 +3,7 @@
 Official code for "IRWArt: Levering Watermarking Performance for Protecting High-quality Artwork Images" (thewebconf 2023 Paper)
 
 <p align="center">
-    <img src=IRWArt.png width="45%"> 
-    <img src=IRWArt.png width="45%"> 
+    <img src=IRWArt.png width="90%">   
 </p>
 
 
