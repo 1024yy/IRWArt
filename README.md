@@ -23,4 +23,4 @@ If you find this repository useful, please use the following entry for citation.
 
 ## Contributors and Contact
 
-If there are any questions, feel free to contact with the author: Yuanjing Luo (yjluo@nudt.edu.cn, yjluo1024@foxmail.com).
+If there are any questions, feel free to contact with the author: Yuanjing Luo (yjluo1024@foxmail.com).
